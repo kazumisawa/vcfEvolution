@@ -1,3 +1,4 @@
+# Kazuharu Misawa 2022/05/30
 import sys
 import vcf
 from Bio import SeqIO
